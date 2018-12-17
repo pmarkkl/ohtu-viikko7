@@ -31,3 +31,5 @@ Eksperimentointi on toimiva tapa tuottaa ohjelmistoa erityisesti, kun sovellus o
 2000-luvulla ohjelmistokehityksen suosituimmaksi paradigmaksi on noussut ketterä ohjelmistokehitys. Suosituimmiksi viitekehyksiksi ovat nousseet Scrum ja Kanban. Molemmat noudattavat ketterän kehityksen ja lean-ajattelun ydinajatuksia, nopeaa muutoksen vastaamista ja jatkuvaa kehitystä.
 
 Scrumban on näiden kahden viitekehyksen ominaisuuksia yhdistelevä menetelmä. Sen katsotaan sopivan projekteihin, jotka ovat nopeasti muuttuvan lisäksi arvaamattomia. Scrumbanin kehittäjien mielestä Scrum asettaa liian tiukkoja rajoitteita työskentelyprosessille, eritoten sen rajatulle ajankäytölle, Kanbanin taas ollessa liian rajoitteeton. Scrumban yksinkertaisesti pyrkii löytämään molemmista viitekehyksistä parhaat puolet. 
+
+Sopivaa menetelmää tietyn ohjelmiston kehittämiseen ei automaattisesti ole olemassa. Scrum, Kanban ja niiden yhdistelmä eivät ole valmiiksi määriteltyjä prosesseja, mutta oikeissa olosuhteissa ne voivat olla toimiva työkalu prosessin kehittämiseen.
